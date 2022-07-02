@@ -1,6 +1,7 @@
 # push_swap
 Push_swap is a program that sorts a given stack of integers with a set of operations.
 
+
 In Push_swap we have only 2 stacks to sort everything and we need to sort it using any of the following commands, the goal is to have as few operations as possible.
 
 sa (swap a): Swap the first 2 elements at the top of stack a.
